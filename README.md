@@ -3,5 +3,4 @@
 ⚙️ Passionate about understanding language strengths and weaknesses to choose the right tool for the job. Currently exploring `Rust`, `Go`, and `Node.js`.  
 🥊 Outside of tech, I train and coach MMA.  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krisfur&show_icons=true)
+📫 Connect with me on <a href="https://www.linkedin.com/in/k-furman/" target="_blank">LinkedIn</a>.
