@@ -4,3 +4,4 @@
 🥊 Outside of tech, I train and coach MMA.  
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krisfur&show_icons=true)
