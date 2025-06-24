@@ -24,4 +24,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 <img src="https://a11ybadges.com/badge?logo=zeromq" height="18">
 
+<img src="https://a11ybadges.com/badge?logo=amazonaws" height="18"><img src="https://a11ybadges.com/badge?logo=microsoftazure" height="18">
+
 ---
