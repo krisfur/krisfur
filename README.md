@@ -21,6 +21,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FF6C37?style=flat&logo=tauri&logoColor=white)
-![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat&logo=zeromq&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+<img src="https://a11ybadges.com/badge?logo=zeromq" height="18">
 
 ---
