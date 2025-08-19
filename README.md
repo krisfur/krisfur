@@ -3,7 +3,7 @@
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
 💻 Experienced in `C++` (detector DAQ, socket networking) and `Python` (data analysis, multithreading, ML).  
 ☁️ Proficient in cloud deployment (VMs, containers, web apps) and data infrastructure on `Azure` and `AWS`.  
-⚙️ Passionate about understanding language strengths and weaknesses Currently exploring `Go`, `Rust`, `TypeScript`, and `Zig`.  
+⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Rust`, `TypeScript`, and `Zig`.  
 🥊 Outside of tech, I train and coach MMA.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
 
