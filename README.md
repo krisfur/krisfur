@@ -1,7 +1,7 @@
 ---
 
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
-💻 Experienced in `C++` (detector DAQ, socket networking) and `Python` (data analysis, multithreading, ML).  
+💻 Experienced in `C++` (detector DAQ, socket networking), `Python` (data analysis, multithreading, ML), and `SQL` (PostgreSQL, Azure Synapse, Snowflake).  
 ☁️ Proficient in cloud deployment (VMs, containers, web apps) and data infrastructure on `Azure` and `AWS`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Rust`, and `TypeScript`.  
 🥊 Outside of tech, I train and coach MMA.  
