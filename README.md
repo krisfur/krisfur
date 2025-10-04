@@ -1,7 +1,7 @@
 ---
 
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
-💻 Experienced in `C++`, `Python`, and `SQL` in software deevlopment and data science environments.  
+💻 Experienced in `C++`, `Python`, and `SQL` in software development and data science environments.  
 ☁️ Proficient in cloud deployment (VMs, containers, web apps) and data infrastructure on `Azure` and `AWS`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Rust`, and `TypeScript`.  
 🥊 Outside of tech, I train and coach MMA.  
