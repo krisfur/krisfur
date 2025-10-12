@@ -2,7 +2,7 @@
 
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
 💻 Experienced in `C++`, `Python`, and `SQL` in software development and data science environments.  
-☁️ Proficient in cloud deployment (VMs, containers, web apps) and data infrastructure on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
+☁️ Proficient in cloud deployment (VMs, containers, web apps, REST APIs, MCP servers) and data infrastructure on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Rust`, and `TypeScript`.  
 🥊 Outside of tech, I train and coach MMA.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
