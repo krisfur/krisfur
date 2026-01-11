@@ -4,7 +4,7 @@
 💻 Experienced in `C++`, `Python`, `Rust`, `SQL`, and `TypeScript` in software development and data science environments.  
 ☁️ Proficient in cloud deployment (DevOps) and data infrastructure (DataOps) on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Kotlin`, and `Zig`.  
-🥊 4th Dan Olympic Taekwondo, Blue Belt BJJ.
+🥊 4th Dan Olympic Taekwondo, Blue Belt BJJ.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
 
 ---
