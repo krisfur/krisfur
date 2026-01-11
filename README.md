@@ -5,7 +5,7 @@
 ☁️ Proficient in cloud deployment (DevOps) and data infrastructure (DataOps) on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Go`, `Kotlin`, and `Zig`.  
 🥊 4th Dan Olympic Taekwondo, Blue Belt BJJ.  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/k-furman/).
+📫 Connect with me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/k-furman).
 
 ---
 
@@ -21,19 +21,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
-<!--
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FF6C37?style=flat&logo=tauri&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-<img src="https://a11ybadges.com/badge?logo=zeromq" height="18">
--->
-
 <img src="https://a11ybadges.com/badge?logo=amazonaws" height="18"><img src="https://a11ybadges.com/badge?logo=microsoftazure" height="18">
 
 ---
+
