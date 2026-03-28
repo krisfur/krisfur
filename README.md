@@ -3,7 +3,7 @@
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
 💻 Experienced in `C++`, `Go`, `Python`, `Rust`, `SQL`, and `TypeScript` in software development and data science environments.  
 ☁️ Proficient in cloud deployment (DevOps) and data infrastructure (DataOps) on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
-⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Odin` and `Zig`.  
+⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Odin`, `Swift`, and `Zig`.  
 🥋 4th Dan Olympic Taekwondo, Blue Belt BJJ.  
 📫 Connect with me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/k-furman).
 
@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ![Odin](https://img.shields.io/badge/Odin-1d568d?style=flat&logo=odin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-ffffff?style=flat&logo=apacheairflow&logoColor=black)
