@@ -1,7 +1,7 @@
 ---
 
 👨‍🔬 Senior Data Engineer with a PhD in Particle Physics from QMUL.  
-💻 Experienced in `C++`, `Go`, `Python`, `Rust`, `SQL`, and `TypeScript` in software development and data science environments.  
+💻 Experienced in `C++`, `Go`, `Python`, `Rust`, `SQL`, and `TypeScript` in software engineering and data science environments.  
 ☁️ Proficient in cloud deployment (DevOps) and data infrastructure (DataOps) on `Azure` and `AWS`, orchestration through `Apache Airflow`, and data management with `Snowflake`.  
 ⚙️ Passionate about understanding language strengths and weaknesses; currently exploring `Odin`, `Swift`, and `Zig`.  
 🥋 4th Dan Olympic Taekwondo, Blue Belt BJJ.  
